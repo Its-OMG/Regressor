@@ -1,4 +1,4 @@
-# END TO END ML PROJECT: House Price Prediction
+# END TO END ML PROJECT: Diamond Price Prediction
 
 ### Created An Environment
 ```
