@@ -13,7 +13,7 @@ import pandas as pd
 
 
 
-## run Data Ingestion
+## Run 
 
 if __name__=='__main__':
     obj = DataIngestion()
